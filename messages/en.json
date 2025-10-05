@@ -1,0 +1,22 @@
+{
+  "Nav": {
+    "home": "Home",
+    "catalogue": "Catalogue",
+    "workshop": "Workshop",
+    "admin": "Admin"
+  },
+  "Home": {
+    "headline": "Uma Jewellers, Beed — Gold, Silver, Diamond",
+    "sub": "Hallmarked jewellery, custom bangle designs, and transparent pricing.",
+    "viewCatalogue": "View Catalogue",
+    "visitWorkshop": "Visit Workshop",
+    "todayRates": "Today's Rates",
+    "rateNote": "Indicative rates. Final price depends on purity, weight, making, and wastage.",
+    "hallmarkTitle": "BIS Hallmark",
+    "hallmarkBody": "We offer BIS hallmarked jewellery and transparent billing.",
+    "addressTitle": "Address",
+    "addressBody": "Beed, Maharashtra. Open Mon–Sat, 10:30 AM – 8:30 PM.",
+    "contactTitle": "Contact",
+    "contactBody": "Call/WhatsApp us for inquiries and appointments."
+  }
+}

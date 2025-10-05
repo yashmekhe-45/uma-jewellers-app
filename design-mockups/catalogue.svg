@@ -1,0 +1,49 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text { font-family: Arial, sans-serif; fill: #1A1A1A; }
+      .muted { fill: #6B7280; }
+      .card { fill: #ffffff; stroke: #E5E7EB; }
+      .badge { fill: #FFF7E6; stroke: #F1D9A9; }
+      .brand { fill: #B8860B; }
+      .bg { fill: #F9FAFB; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1080" height="1920" />
+  <text x="60" y="100" class="text" font-size="44" font-weight="700">Catalogue</text>
+  <rect x="60" y="130" width="960" height="80" rx="12" class="card"/>
+  <text x="80" y="182" class="muted" font-size="28">Search jewellery, e.g., “22K bangles”</text>
+  <rect x="60" y="230" width="160" height="56" rx="12" class="badge"/><text x="80" y="268" class="brand" font-size="24">Gold</text>
+  <rect x="240" y="230" width="160" height="56" rx="12" class="badge"/><text x="260" y="268" class="brand" font-size="24">22K</text>
+  <rect x="420" y="230" width="200" height="56" rx="12" class="badge"/><text x="440" y="268" class="brand" font-size="24">Bangles</text>
+  <g transform="translate(60,320)">
+    <g>
+      <rect x="0" y="0" width="300" height="360" rx="16" class="card"/>
+      <rect x="0" y="0" width="300" height="220" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="260" class="text" font-size="26" font-weight="700">22K Bangle</text>
+      <text x="20" y="296" class="muted" font-size="22">~18g • 22K</text>
+      <text x="20" y="330" class="brand" font-size="22">WhatsApp Enquiry</text>
+    </g>
+    <g transform="translate(330,0)">
+      <rect x="0" y="0" width="300" height="360" rx="16" class="card"/>
+      <rect x="0" y="0" width="300" height="220" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="260" class="text" font-size="26" font-weight="700">22K Necklace</text>
+      <text x="20" y="296" class="muted" font-size="22">~28g • 22K</text>
+      <text x="20" y="330" class="brand" font-size="22">WhatsApp Enquiry</text>
+    </g>
+    <g transform="translate(660,0)">
+      <rect x="0" y="0" width="300" height="360" rx="16" class="card"/>
+      <rect x="0" y="0" width="300" height="220" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="260" class="text" font-size="26" font-weight="700">Silver Anklet</text>
+      <text x="20" y="296" class="muted" font-size="22">~24g • 925</text>
+      <text x="20" y="330" class="brand" font-size="22">WhatsApp Enquiry</text>
+    </g>
+    <g transform="translate(0,380)">
+      <rect x="0" y="0" width="300" height="360" rx="16" class="card"/>
+      <rect x="0" y="0" width="300" height="220" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="260" class="text" font-size="26" font-weight="700">Diamond Ring</text>
+      <text x="20" y="296" class="muted" font-size="22">18K + stones</text>
+      <text x="20" y="330" class="brand" font-size="22">WhatsApp Enquiry</text>
+    </g>
+  </g>
+</svg>

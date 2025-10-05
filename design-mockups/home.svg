@@ -1,0 +1,49 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .nav { fill: #1A1A1A; }
+      .brand { fill: #B8860B; }
+      .card { fill: #FFF7E6; stroke: #F1D9A9; }
+      .text { font-family: Arial, sans-serif; fill: #1A1A1A; }
+      .muted { fill: #6B7280; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1080" height="1920" />
+  <rect x="0" y="0" width="1080" height="140" fill="#ffffff" />
+  <circle cx="90" cy="70" r="28" class="brand"/>
+  <text x="140" y="64" class="text" font-size="40" font-weight="700">Uma Jewellers</text>
+  <text x="140" y="100" class="muted" font-size="26">Beed, Maharashtra</text>
+  <rect x="60" y="180" width="960" height="300" rx="24" class="card"/>
+  <text x="100" y="260" class="text" font-size="48" font-weight="700">Gold • Silver • Diamond</text>
+  <text x="100" y="320" class="muted" font-size="30">Hallmarked jewellery and custom bangle designs</text>
+  <rect x="100" y="360" width="220" height="64" rx="12" class="brand"/>
+  <text x="120" y="404" font-size="28" fill="#fff">View Catalogue</text>
+  <rect x="340" y="360" width="220" height="64" rx="12" fill="none" stroke="#B8860B" stroke-width="2"/>
+  <text x="360" y="404" font-size="28" class="brand">Visit Workshop</text>
+  <text x="60" y="540" class="text" font-size="44" font-weight="700">Today's Rates</text>
+  <text x="60" y="580" class="muted" font-size="26">Indicative rates. Final price depends on purity, weight, making, and wastage.</text>
+  <rect x="60" y="620" width="440" height="260" rx="20" class="card"/>
+  <text x="90" y="680" class="text" font-size="34" font-weight="700">Gold (INR)</text>
+  <text x="90" y="730" class="text" font-size="28">24K/g: ₹6,800</text>
+  <text x="90" y="770" class="text" font-size="28">22K/g: ₹6,240</text>
+  <text x="90" y="810" class="muted" font-size="22">10g ~ ₹68,000</text>
+  <rect x="580" y="620" width="440" height="260" rx="20" class="card"/>
+  <text x="610" y="680" class="text" font-size="34" font-weight="700">Silver (INR)</text>
+  <text x="610" y="730" class="text" font-size="28">Per g: ₹90</text>
+  <text x="610" y="770" class="muted" font-size="22">10g ~ ₹900</text>
+  <rect x="60" y="920" width="300" height="160" rx="16" class="card"/>
+  <text x="80" y="980" class="text" font-size="26" font-weight="700">BIS Hallmark</text>
+  <text x="80" y="1016" class="muted" font-size="22">Transparent billing</text>
+  <rect x="390" y="920" width="300" height="160" rx="16" class="card"/>
+  <text x="410" y="980" class="text" font-size="26" font-weight="700">Address</text>
+  <text x="410" y="1016" class="muted" font-size="22">Beed, Maharashtra</text>
+  <rect x="720" y="920" width="300" height="160" rx="16" class="card"/>
+  <text x="740" y="980" class="text" font-size="26" font-weight="700">Contact</text>
+  <text x="740" y="1016" class="muted" font-size="22">Call / WhatsApp</text>
+  <rect x="0" y="1800" width="1080" height="120" fill="#ffffff" stroke="#E5E7EB"/>
+  <text x="140" y="1872" class="brand" font-size="30">Home</text>
+  <text x="420" y="1872" class="text" font-size="30">Catalogue</text>
+  <text x="720" y="1872" class="text" font-size="30">Workshop</text>
+  <text x="940" y="1872" class="text" font-size="30">Admin</text>
+</svg>

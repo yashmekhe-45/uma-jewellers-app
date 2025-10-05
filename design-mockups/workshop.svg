@@ -1,0 +1,26 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text { font-family: Arial, sans-serif; fill: #1A1A1A; }
+      .muted { fill: #6B7280; }
+      .card { fill: #ffffff; stroke: #E5E7EB; }
+      .brand { fill: #B8860B; }
+      .bg { fill: #F9FAFB; }
+      .chip { fill: #FFF7E6; stroke: #F1D9A9; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1080" height="1920" />
+  <text x="60" y="100" class="text" font-size="44" font-weight="700">Custom Bangle Workshop</text>
+  <text x="60" y="150" class="muted" font-size="26">In-house designs by our workshop on the 1st floor</text>
+  <g transform="translate(60,200)">
+    <rect x="0" y="0" width="480" height="320" rx="16" class="card"/>
+    <rect x="510" y="0" width="480" height="320" rx="16" class="card"/>
+    <rect x="0" y="340" width="480" height="320" rx="16" class="card"/>
+    <rect x="510" y="340" width="480" height="320" rx="16" class="card"/>
+  </g>
+  <rect x="60" y="900" width="960" height="200" rx="20" class="chip"/>
+  <text x="90" y="970" class="text" font-size="34" font-weight="700">Request a Custom Design / Appointment</text>
+  <text x="90" y="1018" class="muted" font-size="24">Share your size, design preference, and preferred date</text>
+  <rect x="90" y="1040" width="280" height="66" rx="12" class="brand"/>
+  <text x="110" y="1084" font-size="28" fill="#fff">Open WhatsApp</text>
+</svg>
